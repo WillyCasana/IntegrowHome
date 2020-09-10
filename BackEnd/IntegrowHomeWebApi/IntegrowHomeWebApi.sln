@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrowHomeWebApi", "IntegrowHomeWebApi.csproj", "{D4D8EA07-9C7E-40B2-9DC1-752DBDE64A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrowHomeBOL", "..\IntegrowHomeBOL\IntegrowHomeBOL.csproj", "{BC3EAB34-150E-43CD-BFC0-166865A4252B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrowHomeDAL", "..\IntegrowHomeDAL\IntegrowHomeDAL.csproj", "{6F3D0FC1-2308-4F6B-B69F-2B9FDE1F354F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrowHomeBLL", "..\IntegrowHomeBLL\IntegrowHomeBLL.csproj", "{E5A98993-A5E2-4B16-9744-84C35F59460A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D8EA07-9C7E-40B2-9DC1-752DBDE64A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D8EA07-9C7E-40B2-9DC1-752DBDE64A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D8EA07-9C7E-40B2-9DC1-752DBDE64A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D8EA07-9C7E-40B2-9DC1-752DBDE64A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3EAB34-150E-43CD-BFC0-166865A4252B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3EAB34-150E-43CD-BFC0-166865A4252B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3EAB34-150E-43CD-BFC0-166865A4252B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3EAB34-150E-43CD-BFC0-166865A4252B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3D0FC1-2308-4F6B-B69F-2B9FDE1F354F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3D0FC1-2308-4F6B-B69F-2B9FDE1F354F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3D0FC1-2308-4F6B-B69F-2B9FDE1F354F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3D0FC1-2308-4F6B-B69F-2B9FDE1F354F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A98993-A5E2-4B16-9744-84C35F59460A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A98993-A5E2-4B16-9744-84C35F59460A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A98993-A5E2-4B16-9744-84C35F59460A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A98993-A5E2-4B16-9744-84C35F59460A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64CBA8BC-2800-4F6A-9C90-0DEE49821945}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/ProyectosWCS
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\IntegrowHomeBLL\\IntegrowHomeBLL.csproj
+		SccProjectName1 = ../IntegrowHomeBLL
+		SccLocalPath1 = ..\\IntegrowHomeBLL
+		SccProjectUniqueName2 = ..\\IntegrowHomeBOL\\IntegrowHomeBOL.csproj
+		SccProjectName2 = ../IntegrowHomeBOL
+		SccLocalPath2 = ..\\IntegrowHomeBOL
+		SccProjectUniqueName3 = ..\\IntegrowHomeDAL\\IntegrowHomeDAL.csproj
+		SccProjectName3 = ../IntegrowHomeDAL
+		SccLocalPath3 = ..\\IntegrowHomeDAL
+		SccProjectUniqueName4 = IntegrowHomeWebApi.csproj
+		SccLocalPath4 = .
+	EndGlobalSection
+EndGlobal
