@@ -1,0 +1,47 @@
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h2>Nueva Entrada a registrar</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col d-flex justify-content-end">
+            <!-- <button class="btn btn-secondary mr-2">Nuevo</button> -->
+            <button ng-click="guardarEntrada(entrada)" class="btn btn-secondary">Guardar</button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-5">
+            <label for="">Titulo de la entrada:</label>
+            <input ng-model="entrada.titulo" class="form-control" type="text">
+        </div>
+        <div class="col-7">
+            <label for="">Fecha de la entrada:</label>
+            <input ng-model="entrada.fecha" class="form-control" type="date">
+        </div>
+        
+    </div>
+    <div class="row">
+        <div class="col-5">
+            
+           
+            <div class="row">
+                <div class="col d-flex flex-column">
+                    <label for="">Imagen de la entrada:</label>
+                    <img width="100%" src="images/aprenderHaciendo_Aristoteles.png" alt="">
+                    <button class="btn btn-primary mt-2">Subir</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-7">
+            <label for="descripcionId">Descripción de la entrada:</label>
+            <!-- <textarea name="" id="descripcionId" cols="30" rows="5"></textarea> -->
+            <div class="input-group">
+                
+                <textarea ng-model="entrada.descripcion" class="form-control" name="" id="descripcionId" cols="8" rows="10"></textarea>
+            </div>
+            
+        </div>
+    </div>
+</div>
