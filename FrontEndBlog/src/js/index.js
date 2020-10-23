@@ -8,6 +8,7 @@ app.config(function($stateProvider){
     var nuevaEntrada={
         name:'nuevaE',
         url:'/nuevaE',
+        controller:'nuevaEntradaCller',
         templateUrl: './views/nuevaEntrada.html'
     }
     var listadoEntrada={
