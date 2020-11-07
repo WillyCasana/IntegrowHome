@@ -1,0 +1,14 @@
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeBLL.deps.json
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeBLL.dll
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeBLL.pdb
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeBOL.dll
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeDAL.dll
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeBOL.pdb
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\bin\Debug\netcoreapp3.1\IntegrowHomeDAL.pdb
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.csprojAssemblyReference.cache
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.AssemblyInfoInputs.cache
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.AssemblyInfo.cs
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.csproj.CoreCompileInputs.cache
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.csproj.CopyComplete
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.dll
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBLL\obj\Debug\netcoreapp3.1\IntegrowHomeBLL.pdb

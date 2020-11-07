@@ -1,0 +1,9 @@
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\bin\Debug\netcoreapp3.1\IntegrowHomeBOL.deps.json
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\bin\Debug\netcoreapp3.1\IntegrowHomeBOL.dll
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\bin\Debug\netcoreapp3.1\IntegrowHomeBOL.pdb
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\obj\Debug\netcoreapp3.1\IntegrowHomeBOL.csprojAssemblyReference.cache
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\obj\Debug\netcoreapp3.1\IntegrowHomeBOL.AssemblyInfoInputs.cache
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\obj\Debug\netcoreapp3.1\IntegrowHomeBOL.AssemblyInfo.cs
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\obj\Debug\netcoreapp3.1\IntegrowHomeBOL.csproj.CoreCompileInputs.cache
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\obj\Debug\netcoreapp3.1\IntegrowHomeBOL.dll
+E:\Proyectos\IntegrowHome\CodigoFuente2\backend\IntegrowHomeBOL\obj\Debug\netcoreapp3.1\IntegrowHomeBOL.pdb

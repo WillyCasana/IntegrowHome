@@ -18,5 +18,10 @@ namespace IntegrowHomeBLL
         
 
         }
+
+        public static void BlogEntradaRegistrar(EntradaBlogEnt entrada)
+        {
+            IntegrowHomeDb.BlogRegistrarEntrada(entrada);
+        }
     }
 }
